@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+transformers
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
+python-dotenv
